@@ -1,8 +1,9 @@
 <h1>Simple Chat</h1>
-MERN Stack application with responsive layout
 
+Application Stack:
 Front-End: <b>React</b> + <b>Material-ui</b> + <b>Socket.io-client</b></br>
 Back-End: <b>Node.js</b> + <b>Socket.io</b></br>
+There is also responsive layout
 
 Follow steps below to run this application:
 <ul>
@@ -13,10 +14,10 @@ Follow steps below to run this application:
 </ul>
 
 <h3>Desktop version:</h3></br>
-<img src="https://www.dropbox.com/s/4zrrsxynrmzrs3p/desktop_chat.png" width="600" alt="desktop version" />
+<img src="https://dl.dropboxusercontent.com/s/4zrrsxynrmzrs3p/desktop_chat.png?dl=0" width="600" alt="desktop version" />
 
 <h3>Tablet version:</h3></br>
-<img src="https://www.dropbox.com/s/apspe5rle88jwqk/tablet_chat.png" width="350" alt="tablet version" /></br></br>
+<img src="https://dl.dropboxusercontent.com/s/apspe5rle88jwqk/tablet_chat.png?dl=0" width="350" alt="tablet version" /></br></br>
 
 <h3>Phone version:</h3></br>
-<img src="https://www.dropbox.com/s/vqdbacfechux7m9/phone_chat.png" width="250" alt="phone version" />
+<img src="https://dl.dropboxusercontent.com/s/vqdbacfechux7m9/phone_chat.png?dl=0" width="250" alt="phone version" />
